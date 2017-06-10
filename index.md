@@ -29,7 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 # Current Projects
 
 ## JavaScript
-# Discord Bot Application (delet)
+### Discord Bot Application (delet)
 I am currently developing a Bot for the widely used [Discord App](https://discordapp.com/), a communication platform for gamers.
 As stated in the [documentation for this project](https://github.com/Boxeh/delet-docs):
 
