@@ -1,12 +1,10 @@
-## Welcome!
+# Welcome!
 
-You can use the [editor on GitHub](https://github.com/Boxeh/boxeh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hey there! I'm Boxeh/Suvan, and I develop cool stuff using JavaScript. You can find details of my projects on this page, as well as contact details, should you need them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Languages
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I mainly have experience in two programming languages - JavaScript and Python. I am familiar with the basics of Python, and I am looking to get back into it soon, despite having not touched it for over 3 years. Being able to use both JavaScript and Python will enable me to work on a much wider range of projects, as each language has its own common uses.
 
 ```markdown
 Syntax highlighted code block
