@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-# Current Projects
+# Current projects
 
 ## JavaScript
 ### Discord Bot Application (delet)
@@ -38,9 +38,21 @@ As stated in the [documentation for this project](https://github.com/Boxeh/delet
 A common issue in large Discord guilds (guilds are called 'servers' within the client) is fast, efficient moderation. This bot provides exactly what is missing. For example, users can quickly and easily be banned through a no-nonsense system. The bot additionally carries features that are not currently within Discord itself - such as channel lockdowns and the ability to issue warnings to users.
 
 Once this bot is complete, all the code will be completely open source, and will be in a [GitHub repository](https://github.com/Boxeh/).
+This application/bot uses the [Discord.js](https://discord.js.org/#/) library.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boxeh/boxeh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Custom Interactive Website
+More information and documentation on this soon™. 😉
 
-### Support or Contact
+## Python
+### No current projects... for now!
+I do not have any current projects that use Python, although I will be starting on one soon! This will be updated with a lot more information once I start it.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact me
+
+If you are forking one of my products and need further information, resources or files, you may contact me, and I will reply as soon as possible. You may also contact me if you wish to request a project collaboration. You can also find some of my Social Media info below.
+
+- **[GitHub](https://github.com/Boxeh/)**
+- **[Email](mailto:suvan@outlook.com)** suvan@outlook.com
+- **[Twitter](https://twitter.com/boxed_)**
+
+*Copyright © 2017, Suvan/Boxeh. Every effort has been made to ensure that this page does not lack any required acknowledgements and any required further information regarding such acknowledgements. However, if such omissions do unfortunately go unnoticed, please do not hesitate to contact Suvan/Boxeh in one of the ways mentioned above.*
