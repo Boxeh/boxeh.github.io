@@ -26,7 +26,18 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Current Projects
+
+##JavaScript
+#Discord Bot Application (delet)
+I am currently developing a Bot for the widely used [Discord App](https://discordapp.com/), a communication platform for gamers.
+As stated in the [documentation for this project](https://github.com/Boxeh/delet-docs):
+
+>The "delet" bot aims to provide a simplistic yet functional and effective moderation system as well as solutions to keep the guild as interactive and enjoyable a place as possible. If you're anti-fun, a feature may be added in the future (once the bot is public) to disable certain command categories locally.
+
+A common issue in large Discord guilds (guilds are called 'servers' within the client) is fast, efficient moderation. This bot provides exactly what is missing. For example, users can quickly and easily be banned through a no-nonsense system. The bot additionally carries features that are not currently within Discord itself - such as channel lockdowns and the ability to issue warnings to users.
+
+Once this bot is complete, all the code will be completely open source, and will be in a GitHub repository.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boxeh/boxeh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
