@@ -29,7 +29,7 @@ More information and documentation on this soon™. 😉
 ### No current projects... for now!
 I do not have any current projects that use Python, although I will be starting on one soon! This will be updated with a lot more information once I start it.
 
-### Contact me
+# Contact me
 
 If you are forking one of my projects and need further information, resources or files, you may contact me, and I will reply as soon as possible. You may also contact me if you wish to request a project collaboration. You can also find some of my Social Media info below.
 
