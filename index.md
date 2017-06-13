@@ -1,4 +1,4 @@
-# Welcome!
+# **Welcome!**
 
 Hey there! I'm Boxeh/Suvan, and I develop cool stuff using JavaScript. You can find details of my projects on this page, as well as contact details, should you need them.
 
@@ -6,9 +6,9 @@ Hey there! I'm Boxeh/Suvan, and I develop cool stuff using JavaScript. You can f
 
 I mainly have experience in two programming languages - JavaScript and Python. I am familiar with the basics of Python, and I am looking to get back into it soon, despite having not touched it for over 3 years. Being able to use both JavaScript and Python will enable me to work on a much wider range of projects, as each language has its own common uses.
 
-# Current projects
+# **Current projects**
 
-## JavaScript
+## _JavaScript_
 ### Discord Bot Application (delet)
 I am currently developing a Bot for the widely used [Discord App](https://discordapp.com/), a communication platform for gamers.
 As stated in the [documentation for this project](https://github.com/Boxeh/delet-docs):
@@ -25,11 +25,11 @@ This application/bot uses the [Discord.js](https://discord.js.org/#/) library.
 ### Custom Interactive Website
 More information and documentation on this soon™. 😉
 
-## Python
-### No current projects... for now!
+## _Python_
+### No current Python projects... for now!
 I do not have any current projects that use Python, although I will be starting on one soon! This will be updated with a lot more information once I start it.
 
-# Contact me
+# **Contact me**
 
 If you are forking one of my projects and need further information, resources or files, you may contact me, and I will reply as soon as possible. You may also contact me if you wish to request a project collaboration. You can also find some of my Social Media info below.
 
