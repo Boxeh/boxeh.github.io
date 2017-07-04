@@ -34,7 +34,6 @@ I do not have any current projects that use Python, although I will be starting 
 If you are forking one of my projects and need further information, resources or files, you may contact me, and I will reply as soon as possible. You may also contact me if you wish to request a project collaboration. You can also find some of my Social Media info below.
 
 - **[GitHub](https://github.com/Boxeh/)**
-- **[Email](mailto:suvan@outlook.com)** *(suvan@outlook.com)*
 - **[Twitter](https://twitter.com/boxed_)**
 
 *Copyright © 2017, Suvan/Boxeh. Every effort has been made to ensure that this page does not lack any required acknowledgements and any required further information regarding such acknowledgements. However, if such omissions do unfortunately go unnoticed, please do not hesitate to contact Suvan/Boxeh in one of the ways mentioned above.*
